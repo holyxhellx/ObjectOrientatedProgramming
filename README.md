@@ -1,13 +1,14 @@
-# Obejct Orientated Programming
+# Object Orientated Programming
+This is a specialisation course from The IT-University in Copenhagen.
 
 Læringsmål:	After the course the student should be able to:
-- explain the OOP concepts of encapsulation, inheritance and polymorphism and apply them to solve problems in a single inheritance language like Java
-- devise and design software solutions to problems using OOP concepts and common design patterns
-- identify exceptional cases in relation to functional correctness and robustness of programs, and apply such mechanisms in Java to handle these cases
-- define and implement custom data structures, generic classes and collections in Java
-- design and Implement multi-threaded applications in Java
-- use I/O streams to develop programs that manipulate text and binary files
-- create simple graphical user interfaces using Java Swing
+- explain the OOP concepts of encapsulation, inheritance and polymorphism and apply them to solve problems in a single inheritance language like Java.
+- devise and design software solutions to problems using OOP concepts and common design patterns.
+- identify exceptional cases in relation to functional correctness and robustness of programs, and apply such mechanisms in Java to handle these cases-
+- define and implement custom data structures, generic classes and collections in Java.
+- design and Implement multi-threaded applications in Java.
+- use I/O streams to develop programs that manipulate text and binary files.
+- create simple graphical user interfaces using Java Swing.
 
 Fagligt indhold:	
 The course gives participants the skills necessary to design and develop medium-sized applications in Java. The course covers the key concepts of OOP exemplified in Java. Notably, it touches upon a selection of the following topics: encapsulation, inheritance, polymorphism, exception handling, threads, containers, generics, I/O streams, event programming, and graphical user interfaces. Using the knowledge and skills gathered during the course, participants will be able to identify problems in programming, to think about their solution in a creative and comprehensive way, and to choose the proper approaches and techniques to address them.
