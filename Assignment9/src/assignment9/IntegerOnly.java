@@ -3,19 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package assignment7;
+package assignment9;
 
 /**
  *
  * @author Asger
  */
-public class Assignment7 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class IntegerOnly {
+    int i = 0; //data
     
+    public IntegerOnly() {
+        i = 0;
+    }
 }
